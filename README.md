@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akh1lk
-- 👀 I’m interested in ML and Backend SWE Devlopment.
-- 🌱 I’m currently learning C++, HTML & CSS.
-- 💞️ I’m looking to collaborate on any backend or ML projects containing Python, Java, or C.
+- 👀 I’m interested in AI, ML, (Backend) Software Engineering, and Quantitative Finance.
+- 🌱 I’m currently learning C++, React Native, & PyTorch.
+- 💞️ I’m looking to collaborate on any projects containing Python, Java, C, or JS.
 - 📫 How to reach me ak2682@cornell.edu.
 
 <!---
